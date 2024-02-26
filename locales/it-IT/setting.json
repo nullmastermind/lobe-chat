@@ -281,6 +281,15 @@
   "settingPlugin": {
     "title": "Elenco dei plugin"
   },
+  "settingPrompt": {
+    "delete": "Elimina questo prompt",
+    "input": {
+      "add": "Aggiungi prompt",
+      "content": "Inserisci il contenuto del modello di prompt. Usa {{var_name}} come variabile",
+      "name": "Inserisci il nome del prompt"
+    },
+    "title": "Creare/Modificare"
+  },
   "settingSystem": {
     "accessCode": {
       "desc": "L'amministratore ha abilitato l'accesso crittografato",
@@ -381,6 +390,7 @@
     "agent": "Assistente predefinito",
     "common": "Impostazioni comuni",
     "llm": "Modello linguistico",
+    "prompt": "Suggerimenti Utente",
     "tts": "Servizio vocale"
   },
   "tools": {

@@ -281,6 +281,15 @@
   "settingPlugin": {
     "title": "Eklenti Listesi"
   },
+  "settingPrompt": {
+    "delete": "Bu ipucunu sil",
+    "input": {
+      "add": "İpucu ekle",
+      "content": "İpucu şablon içeriğini girin. Değişken olarak {{var_name}} kullanın",
+      "name": "İpucu adını girin"
+    },
+    "title": "Oluştur/Düzenle"
+  },
   "settingSystem": {
     "accessCode": {
       "desc": "Yönetici tarafından şifreleme erişimi etkinleştirildi",
@@ -381,6 +390,7 @@
     "agent": "Varsayılan Asistan",
     "common": "Genel Ayarlar",
     "llm": "Modeller",
+    "prompt": "Kullanıcı İpuçları",
     "tts": "Metin Seslendirme"
   },
   "tools": {

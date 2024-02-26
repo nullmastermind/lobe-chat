@@ -283,6 +283,15 @@ export default {
   settingPlugin: {
     title: '插件列表',
   },
+  settingPrompt: {
+    delete: '刪除這個提示',
+    input: {
+      add: '新增提示',
+      content: '輸入提示範本內容。使用 {{var_name}} 作為變數',
+      name: '輸入提示名稱',
+    },
+    title: '建立/編輯',
+  },
   settingSystem: {
     accessCode: {
       desc: '管理员已开启加密访问',
@@ -383,6 +392,7 @@ export default {
     agent: '默认助手',
     common: '通用设置',
     llm: '语言模型',
+    prompt: 'User Prompts',
     tts: '语音服务',
   },
   tools: {

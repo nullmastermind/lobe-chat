@@ -281,6 +281,15 @@
   "settingPlugin": {
     "title": "Lista de plugins"
   },
+  "settingPrompt": {
+    "delete": "Excluir esta dica",
+    "input": {
+      "add": "Adicionar dica",
+      "content": "Insira o conteúdo do modelo de dica. Use {{var_name}} como variável",
+      "name": "Insira o nome da dica"
+    },
+    "title": "Criar/Editar"
+  },
   "settingSystem": {
     "accessCode": {
       "desc": "O administrador habilitou o acesso criptografado",
@@ -381,6 +390,7 @@
     "agent": "Assistente Padrão",
     "common": "Configurações Comuns",
     "llm": "Modelo de Linguagem",
+    "prompt": "Dicas do Usuário",
     "tts": "Serviço de Voz"
   },
   "tools": {

@@ -281,6 +281,15 @@
   "settingPlugin": {
     "title": "プラグインリスト"
   },
+  "settingPrompt": {
+    "delete": "このプロンプトを削除",
+    "input": {
+      "add": "プロンプトを追加",
+      "content": "プロンプトのテンプレート内容を入力してください。変数には {{var_name}} を使用してください",
+      "name": "プロンプト名を入力"
+    },
+    "title": "設定の作成/編集"
+  },
   "settingSystem": {
     "accessCode": {
       "desc": "管理者が暗号化アクセスを有効にしています",
@@ -381,6 +390,7 @@
     "agent": "デフォルトエージェント",
     "common": "一般設定",
     "llm": "言語モデル",
+    "prompt": "ユーザープロンプト",
     "tts": "音声サービス"
   },
   "tools": {

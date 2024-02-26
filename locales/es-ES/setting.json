@@ -281,6 +281,15 @@
   "settingPlugin": {
     "title": "Lista de complementos"
   },
+  "settingPrompt": {
+    "delete": "Eliminar esta sugerencia",
+    "input": {
+      "add": "Agregar sugerencia",
+      "content": "Ingrese el contenido de la plantilla de sugerencia. Use {{var_name}} como variable",
+      "name": "Ingrese el nombre de la sugerencia"
+    },
+    "title": "Crear/Editar"
+  },
   "settingSystem": {
     "accessCode": {
       "desc": "El administrador ha habilitado el acceso cifrado",
@@ -381,6 +390,7 @@
     "agent": "Asistente predeterminado",
     "common": "Configuración común",
     "llm": "Modelo de lenguaje",
+    "prompt": "Sugerencias de usuario",
     "tts": "Servicio de voz"
   },
   "tools": {

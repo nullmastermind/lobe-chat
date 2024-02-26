@@ -281,6 +281,15 @@
   "settingPlugin": {
     "title": "Plugin-lijst"
   },
+  "settingPrompt": {
+    "delete": "Verwijder deze prompt",
+    "input": {
+      "add": "Voeg prompt toe",
+      "content": "Voer de inhoud van de prompt-sjabloon in. Gebruik {{var_name}} als variabele",
+      "name": "Voer de naam van de prompt in"
+    },
+    "title": "Instellingen aanmaken/bewerken"
+  },
   "settingSystem": {
     "accessCode": {
       "desc": "Beheerder heeft versleutelde toegang ingeschakeld",
@@ -381,6 +390,7 @@
     "agent": "Standaardassistent",
     "common": "Algemene instellingen",
     "llm": "Taalmodel",
+    "prompt": "Gebruikersprompts",
     "tts": "Spraakdienst"
   },
   "tools": {

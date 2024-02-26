@@ -281,6 +281,15 @@
   "settingPlugin": {
     "title": "Liste des plugins"
   },
+  "settingPrompt": {
+    "delete": "Supprimer cette invite",
+    "input": {
+      "add": "Ajouter une invite",
+      "content": "Saisissez le contenu du modèle d'invite. Utilisez {{var_name}} comme variable",
+      "name": "Saisissez le nom de l'invite"
+    },
+    "title": "Créer/Éditer"
+  },
   "settingSystem": {
     "accessCode": {
       "desc": "L'administrateur a activé l'accès chiffré",
@@ -381,6 +390,7 @@
     "agent": "Agent par défaut",
     "common": "Paramètres généraux",
     "llm": "Modèle de langue",
+    "prompt": "Invitations utilisateur",
     "tts": "Service vocal"
   },
   "tools": {
